@@ -1,1 +1,1 @@
-# MojNovcanik
+# MyWallet
